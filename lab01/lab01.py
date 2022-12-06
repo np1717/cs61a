@@ -54,5 +54,5 @@ def double_eights(n):
     False
     """
     "*** YOUR CODE HERE ***"
-
+    return '88' in str(n)
 
